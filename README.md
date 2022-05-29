@@ -16,7 +16,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ## How to run the project?
 
-1. Clone this repository in your local system.
+1. Clone this repository(https://github.com/Aaanchu/cine_mate.git) in your local system.
 2. Install all the libraries mentioned in the file with the command `pip install -r requirements.txt`.
 3. Replace YOUR_API_KEY in *both* the places (line no. 23 and 43) of `static/recommend.js` file.
 4. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
@@ -30,5 +30,10 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
+Heroku URL: https://cinemaate.herokuapp.com/
+GitHub Repositry URL : https://github.com/Aaanchu/cine_mate.git
+Youtube URL : https://youtu.be/B8nLbLW3iIw
+
 Please give rating ⭐ to the repository, if it helped you.
+
 ☺️ "Thank You for visiting" ☺️
